@@ -30,7 +30,7 @@ github_username:  jekyll
 
 
 # Build settings
-theme: mini
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
